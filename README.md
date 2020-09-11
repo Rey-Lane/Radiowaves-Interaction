@@ -8,14 +8,10 @@
 ### Моделирование трёхчастотных волновых взаимодействий в среде с квадратичной нелинейностью.
 Смоделировать систему дифференциальных уравнений.
 
-# Theory of interaction of radio waves with matter
-Course on the theory of interaction of radio waves with matter, taught at Syktyvkar State University
-
-## Task 1:
-Model the image 2a from Gavrilov's A.M. article.
-
-## Task 2:
-### Modeling triple-frequency wave interactions in environments with quadratic nonlinearity.
-Model the system of differential equations.
+## Задание 3:
+### Моделирование трёхчастотных волновых взаимодействий в среде с квадратичной нелинейностью
+### 3.1 Изучение параметрической генерации волн при нулевом затухании
+### 3.2 Изучение влияния затухания на параметрическую генерацию
+### 3.3 Изучение генерации разностной частоты при нулевом затухании
 
 
