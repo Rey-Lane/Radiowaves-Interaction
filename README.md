@@ -1,9 +1,10 @@
 # Теория моделирования взаимодействия радиоволн с веществом
 Курс по теории моделирования взаимодействия радиоволн с веществом, преподаваемый в Сыктывкарском Государственном Университете.
-![alt text](https://github.com/Rey-Lane/radiowaves-interaction/tree/master/image/first_task.png?raw=true)
+![alt text](https://github.com/Rey-Lane/radiowaves-interaction/blob/master/image/first_task.png)
+
 ## Задание 1:
 Смоделировать рисунок 2а из статьи Гаврилова А.М.
-https://github.com/Rey-Lane/radiowaves-interaction/tree/master/image
+
 ## Задание 2:
 ### Моделирование трёхчастотных волновых взаимодействий в среде с квадратичной нелинейностью.
 Смоделировать систему дифференциальных уравнений.
