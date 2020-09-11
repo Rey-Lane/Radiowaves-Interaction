@@ -1,6 +1,6 @@
 # Теория моделирования взаимодействия радиоволн с веществом
 Курс по теории моделирования взаимодействия радиоволн с веществом, преподаваемый в Сыктывкарском Государственном Университете.
-![alt text](https://github.com/Rey-Lane/radiowaves-interaction/tree/master/image/first_task.jpg?raw=true)
+![alt text](https://github.com/Rey-Lane/radiowaves-interaction/tree/master/image/first_task.png?raw=true)
 ## Задание 1:
 Смоделировать рисунок 2а из статьи Гаврилова А.М.
 https://github.com/Rey-Lane/radiowaves-interaction/tree/master/image
